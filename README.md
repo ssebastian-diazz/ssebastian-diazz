@@ -47,6 +47,10 @@
 
 <hr />
 
+<p align="center">
+	<img src="b.png">
+</p>
+
 ## Banco de México — Work & Projects
 
 At Banxico's División de Asuntos Internacionales, I support analysis on international monetary policy and build tooling to make that analysis reproducible.
@@ -55,9 +59,9 @@ At Banxico's División de Asuntos Internacionales, I support analysis on interna
 > NLP pipeline parsing a decade of IMF Article IV consultations, extracting and classifying recommendations, published as an interactive dashboard.
 - **Tech**: Python, NLP, GitHub Pages, SVG data visualization
 
-### BCV Reincorporation into CEMLA — Policy Research Note
-> Research note on the Banco Central de Venezuela's return to CEMLA, with editorial-style visualizations (political and sanctions timelines, electoral risk calendar, diplomatic relations tables) generated programmatically.
-- **Tech**: Python, data visualization, policy research
+### APEC Publications Explorer
+> Scraping and cleaning pipeline over APEC's public publications archive (1993–2026, 2,883 of 2,919 records recovered), published as an interactive dashboard with volume, type, and title-term analysis over time.
+- **Tech**: Python, Node.js, JavaScript, Chart.js
 
 ### Institutional Reports Pipeline
 > Internal automation pipeline for processing and structuring institutional reports at DAI.
@@ -78,6 +82,7 @@ At Banxico's División de Asuntos Internacionales, I support analysis on interna
 <hr />
 
 ## Background
+
 - **Economics** — B.A. in Economics, UNAM
 
 ## Interests
