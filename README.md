@@ -78,9 +78,7 @@ At Banxico's División de Asuntos Internacionales, I support analysis on interna
 <hr />
 
 ## Background
-
-- **FX Settlements** — Analista de Liquidaciones (Confirmaciones y Disponibilidades CLS) at Grupo Financiero Monex: SWIFT confirmation workflows, CLS mechanics, back-office treasury operations.
-- **Economics** — B.A. in Economics, UNAM (expected 2027).
+- **Economics** — B.A. in Economics, UNAM
 
 ## Interests
 
