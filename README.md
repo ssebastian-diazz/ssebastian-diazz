@@ -83,7 +83,7 @@ At Banxico's División de Asuntos Internacionales, I support analysis on interna
 
 ## Personal Projects
 
-### [Fin](https://github.com/ssebastian-diazz/Fin)
+### [FinTrack](https://github.com/ssebastian-diazz/Fin)
 > A personal finance app built to track and reason about my own spending — not another dashboard-first budgeting tool.
 - **Tech**: React, Vite, TypeScript, Tailwind, Supabase
 
