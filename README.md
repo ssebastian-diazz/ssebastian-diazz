@@ -15,7 +15,7 @@
 
 ## About Me
 
-<strong>Economics</strong> graduate from <strong>UNAM</strong> working at the intersection of economics, finance, and data engineering. Currently completing my internship at <strong>Banco de México's</strong> *División de Asuntos Internacionales*.
+<strong>Economics</strong> graduate from <strong>UNAM</strong> working at the intersection of economics, financial data, and data engineering. Currently completing my internship at <strong>Banco de México's</strong> *División de Asuntos Internacionales*.
 
 <br />
 
@@ -48,36 +48,56 @@
 <hr />
 
 <p align="center">
-	<img src="b1.png">
+	<img src="b.png">
 </p>
 
 ## Banco de México — Work & Projects
 
 At Banxico's División de Asuntos Internacionales, I support analysis on international monetary policy and build tooling to make that analysis reproducible.
 
-### Monetary Policy Analysis: IMF Article IV Recommendations to Mexico, 2015–2025
+### [Monetary Policy Analysis: IMF Article IV Recommendations to Mexico, 2015–2025](https://github.com/ssebastian-diazz/Article-IV)
 > NLP pipeline parsing a decade of IMF Article IV consultations, extracting and classifying recommendations, published as an interactive dashboard.
 - **Tech**: Python, NLP, GitHub Pages, SVG data visualization
 
-### APEC Publications Explorer
+<p align="center">
+	<img src="1.png">
+</p>
+
+### [APEC Publications Explorer](https://github.com/ssebastian-diazz/APEC_publications)
 > Scraping and cleaning pipeline over APEC's public publications archive (1993–2026, 2,883 of 2,919 records recovered), published as an interactive dashboard with volume, type, and title-term analysis over time.
 - **Tech**: Python, Node.js, JavaScript, Chart.js
 
-### Institutional Reports Pipeline
-> Internal automation pipeline for processing and structuring institutional reports at DAI.
-- **Tech**: Python, NLP, automation
+<p align="center">
+	<img src="2.png">
+</p>
+
+### [G20 Macro Dashboard](https://github.com/ssebastian-diazz/G20-Macro-Analysis)
+> Comparative macroeconomic, external, and institutional dashboard across G20 economies (2024–2025e), with country profiles, cross-indicator relationships, and a vulnerability heatmap.
+- **Tech**: JavaScript, Plotly.js
+
+<p align="center">
+	<img src="3.png">
+</p>
 
 <hr />
 
 ## Personal Projects
 
-### Fin
+### [Fin](https://github.com/ssebastian-diazz/Fin)
 > A personal finance app built to track and reason about my own spending — not another dashboard-first budgeting tool.
 - **Tech**: React, Vite, TypeScript, Tailwind, Supabase
 
-### Diccionario
+<p align="center">
+	<img src="4.png">
+</p>
+
+### [Diccionario](https://github.com/ssebastian-diazz/Diccionario)
 > A personal vocabulary capture app, rebuilt from a dictionary system I first put together in secondary school. Built around an active reading-session flow and a printed-dictionary editorial aesthetic.
 - **Tech**: React, Vite, TypeScript, Tailwind, Supabase
+
+<p align="center">
+	<img src="5.png">
+</p>
 
 <hr />
 
