@@ -48,7 +48,7 @@
 <hr />
 
 <p align="center">
-	<img src="b.png">
+	<img src="b1.png">
 </p>
 
 ## Banco de México — Work & Projects
