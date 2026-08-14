@@ -15,7 +15,7 @@
 
 ## About Me
 
-<strong>Economics</strong> graduate from <strong>UNAM</strong> working at the intersection of economics, financial data, and data engineering. Currently completing my internship at <strong>Banco de México's</strong> *División de Asuntos Internacionales*.
+<strong>Economics</strong> graduate from <strong>UNAM</strong> working at the intersection of economics, finance, and data engineering. Currently completing my internship at <strong>Banco de México's</strong> *División de Asuntos Internacionales*.
 
 <br />
 
