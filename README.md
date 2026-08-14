@@ -15,7 +15,7 @@
 
 ## About Me
 
-Economics graduate (UNAM) working at the intersection of monetary policy, financial data, and software. Currently completing my *servicio social* at Banco de México's División de Asuntos Internacionales, and working in FX settlements at Grupo Financiero Monex.
+Economics graduate (UNAM) working at the intersection of monetary policy, financial data, and software. Currently completing my *servicio social* at Banco de México's División de Asuntos Internacionales.
 
 <br />
 
