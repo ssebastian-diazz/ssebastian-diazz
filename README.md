@@ -51,7 +51,7 @@
 
 At Banxico's División de Asuntos Internacionales, I support analysis on international monetary policy and build tooling to make that analysis reproducible.
 
-### IMF Article IV Recommendations to Mexico, 2015–2025
+### Monetary Policy Analysis: IMF Article IV Recommendations to Mexico, 2015–2025
 > NLP pipeline parsing a decade of IMF Article IV consultations, extracting and classifying recommendations, published as an interactive dashboard.
 - **Tech**: Python, NLP, GitHub Pages, SVG data visualization
 
