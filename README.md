@@ -56,20 +56,20 @@ I build data-driven projects that turn complex and unstructured information into
 
 At Banxico's División de Asuntos Internacionales, I support analysis on international monetary policy and build tooling to make that analysis reproducible.
 
-### [Monetary Policy Analysis: IMF Article IV Recommendations to Mexico, 2015–2025](https://github.com/ssebastian-diazz/Article-IV)
-> NLP pipeline parsing a decade of IMF Article IV consultations, extracting and classifying recommendations, published as an interactive dashboard.
-- **Tech**: Python, NLP, GitHub Pages, SVG data visualization
-
-<p align="center">
-	<img src="1.png">
-</p>
-
 ### [APEC Publications Explorer](https://github.com/ssebastian-diazz/APEC_publications)
 > Scraping and cleaning pipeline over APEC's public publications archive (1993–2026, 2,883 of 2,919 records recovered), published as an interactive dashboard with volume, type, and title-term analysis over time.
 - **Tech**: Python, Node.js, JavaScript, Chart.js
 
 <p align="center">
 	<img src="2.png">
+</p>
+
+### [Monetary Policy Analysis: IMF Article IV Recommendations to Mexico, 2015–2025](https://github.com/ssebastian-diazz/Article-IV)
+> NLP pipeline parsing a decade of IMF Article IV consultations, extracting and classifying recommendations, published as an interactive dashboard.
+- **Tech**: Python, NLP, GitHub Pages, SVG data visualization
+
+<p align="center">
+	<img src="1.png">
 </p>
 
 ### [G20 Macro Dashboard](https://github.com/ssebastian-diazz/G20-Macro-Analysis)
