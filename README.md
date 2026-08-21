@@ -92,6 +92,14 @@ At Banxico's División de Asuntos Internacionales, I support analysis on interna
 	<img src="4.png">
 </p>
 
+### [CDMX Geospatial Analysis](https://github.com/ssebastian-diazz/cdmx-geospatial-analysis)
+> GIS pipeline extracting Mexico City street-level vector data, classifying street names against theme-specific reference lists, and visualizing the resulting spatial patterns on an interactive map.
+- **Tech**: Python, GeoPandas, OSMnx, Leaflet, GitHub Pages
+
+<p align="center">
+	<img src="g.png">
+</p>
+
 ### [Diccionario](https://github.com/ssebastian-diazz/Diccionario)
 > A personal vocabulary capture app, rebuilt from a dictionary system I first put together in secondary school. Built around an active reading-session flow and a printed-dictionary editorial aesthetic.
 - **Tech**: React, Vite, TypeScript, Tailwind, Supabase
