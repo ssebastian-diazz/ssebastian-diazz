@@ -89,7 +89,7 @@ At Banxico's División de Asuntos Internacionales, I support analysis on interna
 - **Tech**: React, Vite, TypeScript, Tailwind
 
 <p align="center">
-	<img src="4.png">
+	<img src="f.jpg">
 </p>
 
 ### [CDMX Geospatial Analysis](https://github.com/ssebastian-diazz/cdmx-geospatial-analysis)
