@@ -97,7 +97,7 @@ At Banxico's División de Asuntos Internacionales, I support analysis on interna
 - **Tech**: Python, GeoPandas, OSMnx, Leaflet, GitHub Pages
 
 <p align="center">
-	<img src="g.png">
+	<img src="g.jpg">
 </p>
 
 ### [Diccionario](https://github.com/ssebastian-diazz/Diccionario)
