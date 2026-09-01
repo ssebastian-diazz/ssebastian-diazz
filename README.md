@@ -54,7 +54,7 @@ I build data-driven projects that turn complex and unstructured information into
 
 ## Banco de México — Work & Projects
 
-At Banxico's División de Asuntos Internacionales, I support analysis on international monetary policy and build tooling to make that analysis reproducible.
+At Banxico's División de Asuntos Internacionales, I supported analysis on international monetary policy and built tools to make that analysis reproducible.
 
 ### [APEC Publications Explorer](https://github.com/ssebastian-diazz/APEC_publications)
 > Scraping and cleaning pipeline over APEC's public publications archive (1993–2026, 2,883 of 2,919 records recovered), published as an interactive dashboard with volume, type, and title-term analysis over time.
