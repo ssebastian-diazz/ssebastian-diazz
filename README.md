@@ -19,33 +19,6 @@
 
 I build data-driven projects that turn complex and unstructured information into useful tools and analysis. My work includes ETL pipelines, web scraping, financial apps, and the integration of AI into practical applications.
 <br />
-
-## Tech Stack
-
-### Languages & Data
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
-
-### Frontend & Backend
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
-
-### Data & Analysis
-
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![NLP](https://img.shields.io/badge/-NLP-05122A?style=flat&logo=readthedocs)&nbsp;
-
-### Tools
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Pages-05122A?style=flat&logo=github)&nbsp;
-
 <hr />
 
 <p align="center">
