@@ -84,6 +84,14 @@ At Banxico's División de Asuntos Internacionales, I supported analysis on inter
 
 ## Personal Projects
 
+### [NodOS](https://github.com/ssebastian-diazz/nodos-map) — [nodosmap.com](https://nodosmap.com)
+> A navigable semantic map of more than 600,000 UNAM theses. Titles are embedded, clustered and projected to 2D, so related topics sit together regardless of faculty or program. A Lab lets thesis writers locate their project on the map and find similar theses and advisors. Independent project, not an official UNAM site.
+- **Tech**: Python, multilingual-e5-large, UMAP, HDBSCAN, FAISS, JavaScript, WebGL, Cloudflare Workers, Supabase
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/ssebastian-diazz/nodos-map/main/docs/mapa.png">
+</p>
+
 ### [FinTrack](https://github.com/ssebastian-diazz/FinTrack)
 > A personal finance app built to track and reason about my own spending, and plan future expenses.
 - **Tech**: React, Vite, TypeScript, Tailwind
