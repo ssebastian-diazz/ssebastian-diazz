@@ -4,7 +4,7 @@
 
 **Economics** graduate from **UNAM** working at the intersection of economics, financial data, and data engineering. Recently completed my internship at **Banco de México's** *División de Asuntos Internacionales*.
 
-I build data-driven projects that turn complex and unstructured information into useful tools and analysis. My work includes ETL pipelines, web scraping, financial apps, NLP tools, and the integration of AI into practical applications.
+I build data-driven projects that turn complex and unstructured information into useful tools and analysis. My work includes ETL pipelines, web development, NLP tools, and the integration of AI into practical applications.
 <br />
 <hr />
 
