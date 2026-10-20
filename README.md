@@ -89,6 +89,6 @@ At Banxico's División de Asuntos Internacionales, I supported analysis on inter
 
 ## Interests
 
-Linguistics, literature, urbanism, film — and building small tools to think more carefully about what I read and watch, rather than consuming passively.
+Linguistics, literature, football, urbanism and cinema.
 
 <p>Reach out: <a href="mailto:sebastiaan.diaz.prado@gmail.com">sebastiaan.diaz.prado@gmail.com</a></p>
